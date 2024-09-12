@@ -1,2 +1,3 @@
 Welcome to My Git Project
 This project demonstrates basic Git and GitHub operations.
+\nThis project helps to understand Git basics.
